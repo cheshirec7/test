@@ -1,0 +1,17 @@
+{
+    "name": "sunquest",
+    "version": "1.0.0",
+    "description": "sunquest test",
+    "main": "app.js",
+    "directories": {
+        "doc": "doc"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Eric Totten",
+    "license": "ISC",
+    "dependencies": {
+        
+    }
+}
